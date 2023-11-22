@@ -45,7 +45,6 @@ Questo strumento è fornito solo a scopo educativo. L'uso improprio è severamen
                                           
 ```
 
-```markdown
 # Output (Esempio)
 
 ```
@@ -54,10 +53,8 @@ Invitati 2 pacchetti all'indirizzo ip : <IP del Target>
 ...
 ```
 
-```markdown
 ```
 
 ---
 
 **Nota:** Si prega di utilizzare questo script in conformità alle leggi locali e solo a scopo educativo. L'autore non è responsabile per un uso improprio o danni causati dall'uso di questo software.
-```
