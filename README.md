@@ -1,4 +1,5 @@
 
+```markdown
 # Denial of Service (DoS) Attack Tool
 
 ## Descrizione
@@ -45,7 +46,7 @@ Questo strumento è fornito solo a scopo educativo. L'uso improprio è severamen
                                           
 ```
 
-
+```markdown
 # Output (Esempio)
 
 ```
@@ -54,6 +55,7 @@ Invitati 2 pacchetti all'indirizzo ip : <IP del Target>
 ...
 ```
 
+```markdown
 ```
 
 ---
